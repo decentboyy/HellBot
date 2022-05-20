@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decentboyy/HellBot)
+
 <h1 align="center">
   <b>†hê Hêllẞø† 🇮🇳</b>
 </h1>
